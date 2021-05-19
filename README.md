@@ -25,10 +25,13 @@ A comparison of district summaries with Thomas High School 9th grade students re
 * Math and reading scores by grade
 * Scores by school spending
 * Scores by school size
+* 
 **Before**
+
 ![size_summary_before](https://github.com/cortesh/School_District_Analysis/blob/main/Resources/size_summary_before.PNG)
 
 **After**
+
 ![size_summary_after](https://github.com/cortesh/School_District_Analysis/blob/main/Resources/size_summary_after.PNG)
 
 * Scores by school type: No change
