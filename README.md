@@ -22,8 +22,27 @@ A comparison of district summaries with Thomas High School 9th grade students re
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 ### How does replacing the ninth-grade scores affect the following:
+----------------------------------------------------------------------------------------------------------------------------------------------
 * Math and reading scores by grade
+
+**Before**
+
+
+
+**After**
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
 * Scores by school spending
+
+**Before**
+
+![spending_summary_before](https://github.com/cortesh/School_District_Analysis/blob/main/Resources/spending_summary_before.PNG)
+
+**After**
+
+![spending_summary_after](https://github.com/cortesh/School_District_Analysis/blob/main/Resources/spending_summary_after.PNG)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 * Scores by school size: **NO CHANGE**
@@ -36,6 +55,7 @@ A comparison of district summaries with Thomas High School 9th grade students re
 
 ![size_summary_after](https://github.com/cortesh/School_District_Analysis/blob/main/Resources/size_summary_after.PNG)
 
+----------------------------------------------------------------------------------------------------------------------------------------------
 * Scores by school type: **NO CHANGE**
 
 **Before**
