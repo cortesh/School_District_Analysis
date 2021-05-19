@@ -25,6 +25,8 @@ A comparison of district summaries with Thomas High School 9th grade students re
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+By far the most dramatic change is in the school rankings.  Thomas High School drops from 2nd place to 8th place after 9th grade scores are removed.
+
 ![school_comparison_before](https://github.com/cortesh/School_District_Analysis/blob/main/Resources/school_comparison_before.PNG)
 ![school_comparison_after](https://github.com/cortesh/School_District_Analysis/blob/main/Resources/school_comparison_after.PNG)
 
@@ -77,4 +79,9 @@ A comparison of district summaries with Thomas High School 9th grade students re
 ![type_summary_after](https://github.com/cortesh/School_District_Analysis/blob/main/Resources/type_summary_after.PNG)
 
 
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. 
+## Summary: 
+
+1. District scores remained unchanged.
+2. School rankings changed with Thomas High School dropping six places.
+3. In grade level analyses, 9th grade scores are replaced with 'NaN'.
+4. Other metrics remain unchanged.
