@@ -17,7 +17,10 @@ The school board wants to investigate suspicious test results in reading and mat
 
 ### How is the district summary affected?
 A comparison of district summaries with Thomas High School 9th grade students reading and math scores removed made little to no significant change in the overall performance, with less than 1% difference between the two summaries.
-  
+ 
+ ![district_comparison](https://github.com/cortesh/School_District_Analysis/blob/main/Resources/district_comparison.PNG)
+ 
+ 
 ### How is the school summary affected?
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
