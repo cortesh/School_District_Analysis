@@ -29,7 +29,6 @@ A comparison of district summaries with Thomas High School 9th grade students re
 * Scores by school type: No change
 
 **Before**
-
 ![type_summary_before](https://github.com/cortesh/School_District_Analysis/blob/main/Resources/type_summary_before.PNG)
 
 **After**
